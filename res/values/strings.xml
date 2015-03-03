@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Maps</string>
+    <string name="action_exit">Exit</string>
+    <string name="api_key_debug">AIzaSyDniloGs0PRecW_iORkmVWkjSVX9vdH7Eo</string>
+    <string name="api_server_key">AIzaSyDzsf1UVqy7s-JhTPz4csQbOHBVzfh_5oA</string>
+    <string name="api_key_release"></string>
+    <string name="search_hint">Type here&#8230;</string>
+    <string name="splash">Loading application&#8230;</string>
+    <string name="activate_geolocation">Activate Geolocation</string>
+    <string name="_yes_">Yes</string>
+    <string name="_no_">No</string>
+
+</resources>
