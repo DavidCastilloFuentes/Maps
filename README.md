@@ -1,2 +1,2 @@
-# Animations
-General concepts for doing animations on android views. It shows how we make different animations like rotating, translating, resizing, etc.
+# Google Maps & GPS Geolocation
+# General concepts for using Maps, GPS tracking, Google Places, AutoComplete suggestions on android devices.
