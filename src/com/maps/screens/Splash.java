@@ -9,7 +9,7 @@ import android.support.v4.app.FragmentActivity;
 import android.view.Window;
 
 public class Splash extends FragmentActivity {
-	private static final long SPLASH_SCREEN_DELAY = 5000;
+	private static final long SPLASH_SCREEN_DELAY = 2000;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
